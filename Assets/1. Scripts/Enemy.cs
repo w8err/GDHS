@@ -8,7 +8,7 @@ public class Enemy : MonoBehaviour
     {
         if(collision.CompareTag("Player"))
         {
-            // GameManager.Instance.GameOver();
+            GameManager.Instance.GameOver();
         }
     }
 }
