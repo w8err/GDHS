@@ -1,2 +1,2 @@
 # GDHS
-Game Development History School 230916~231028
+게임개발사관학교 230916~231028
